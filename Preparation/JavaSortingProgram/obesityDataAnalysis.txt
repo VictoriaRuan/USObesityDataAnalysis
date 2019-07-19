@@ -1,0 +1,251 @@
+The top 20 counties sorted based on No Exercise
+1. Telfair Georgia 52.4
+2. Wolfe Kentucky 50.0
+3. Leflore Mississippi 49.5
+4. McCreary Kentucky 49.4
+5. Morehouse Louisiana 47.7
+6. Clay Kentucky 45.8
+7. Harlan Kentucky 45.7
+8. Washington Louisiana 45.8
+9. Phillips Arkansas 45.2
+10. Knott Kentucky 45.3
+11. Floyd Kentucky 45.0
+12. Todd Kentucky 45.0
+13. Pemiscot Missouri 44.8
+14. Monroe Kentucky 44.6
+15. Bienville Louisiana 44.1
+16. Jackson Kentucky 43.9
+17. Lee Kentucky 43.6
+18. Robeson North Carolina 43.6
+19. Marlboro South Carolina 43.3
+20. Greene Tennessee 43.2
+
+
+The top 20 counties sorted based on Few Fruit & Vegetables
+1. Glades Florida 96.4
+2. Thomas Kansas 93.7
+3. Tallahatchie Mississippi 93.8
+4. Owsley Kentucky 93.4
+5. Grant Oklahoma 93.1
+6. Burke North Dakota 92.5
+7. Walthall Mississippi 92.0
+8. Upson Georgia 92.1
+9. Alexander North Carolina 91.7
+10. Guadalupe New Mexico 91.7
+11. Scott Arkansas 91.5
+12. Stone Mississippi 91.4
+13. Coryell Texas 91.4
+14. Wright Missouri 91.2
+15. Concordia Louisiana 91.0
+16. Berrien Georgia 90.9
+17. Archuleta Colorado 90.9
+18. Madison Louisiana 90.8
+19. Yazoo Mississippi 90.5
+20. Mayes Oklahoma 90.6
+
+
+The top 20 counties sorted based on Obesity
+1. Webster West Virginia 42.6
+2. Bamberg South Carolina 40.2
+3. Williamsburg South Carolina 39.5
+4. Winston Mississippi 38.9
+5. McLean Kentucky 38.7
+6. Logan West Virginia 38.7
+7. Marshall Mississippi 38.6
+8. Burke Georgia 38.6
+9. Corson South Dakota 38.3
+10. Petersburg City Virginia 37.4
+11. Rolette North Dakota 37.2
+12. Adams Indiana 37.1
+13. Fountain Indiana 37.1
+14. Hertford North Carolina 36.9
+15. Dallas Alabama 36.6
+16. Butler Missouri 36.5
+17. Todd South Dakota 36.4
+18. Sunflower Mississippi 36.3
+19. Ziebach South Dakota 36.0
+20. St. Joseph Michigan 35.9
+
+
+The top 20 counties sorted based on High Blood Pressure
+1. Adams Mississippi 47.1
+2. Adair Oklahoma 45.6
+3. McDowell West Virginia 44.9
+4. Marion South Carolina 44.6
+5. McIntosh Oklahoma 43.8
+6. Highlands Florida 42.7
+7. Butler Missouri 42.5
+8. Union South Carolina 42.5
+9. Halifax Virginia 42.4
+10. Talladega Alabama 42.2
+11. Boone West Virginia 41.9
+12. Logan West Virginia 41.7
+13. Monroe Mississippi 41.6
+14. Whitley Kentucky 41.5
+15. Wilson North Carolina 41.1
+16. Mingo West Virginia 41.0
+17. Caddo Oklahoma 41.0
+18. Moore North Carolina 41.0
+19. Washington Mississippi 40.8
+20. Worcester Maryland 40.4
+
+
+The top 20 counties sorted based on Smoker
+1. McCreary Kentucky 46.2
+2. Dunklin Missouri 45.4
+3. Poinsett Arkansas 42.6
+4. Shannon South Dakota 42.4
+5. Pushmataha Oklahoma 41.8
+6. Jackson Kentucky 41.6
+7. Elliott Kentucky 40.9
+8. Ohio Kentucky 40.8
+9. Bracken Kentucky 40.4
+10. Lewis Kentucky 40.3
+11. Todd South Dakota 39.9
+12. Lincoln West Virginia 38.9
+13. Logan Kentucky 38.9
+14. Dewey South Dakota 38.9
+15. Lee Kentucky 38.7
+16. Mineral Nevada 38.8
+17. Jefferson Tennessee 38.5
+18. Grayson Kentucky 37.9
+19. Breckinridge Kentucky 37.9
+20. Lawrence Arkansas 37.8
+
+
+The top 20 counties sorted based on Diabetes
+1. Lee South Carolina 20.8
+2. Brunswick Virginia 19.1
+3. Hertford North Carolina 18.7
+4. Tyler West Virginia 18.7
+5. Bertie North Carolina 18.3
+6. Mitchell North Carolina 18.3
+7. Noxubee Mississippi 18.2
+8. Benton Missouri 17.8
+9. Tillman Oklahoma 17.6
+10. Giles Virginia 17.3
+11. Beaufort North Carolina 17.2
+12. Chambers Alabama 17.1
+13. Campbell Tennessee 17.1
+14. Haralson Georgia 17.1
+15. Madison Florida 17.2
+16. Warren North Carolina 17.0
+17. Washington Louisiana 16.8
+18. Worth Georgia 16.8
+19. Rusk Wisconsin 16.8
+20. Gadsden Florida 16.6
+
+
+The top 20 counties sorted based on Uninsured
+1. Los Angeles California 2167891
+2. Cook Illinois 852932
+3. Harris Texas 676637
+4. Maricopa Arizona 537647
+5. Kings New York 517807
+6. Orange California 509324
+7. San Diego California 488866
+8. Miami-Dade Florida 485473
+9. Queens New York 432812
+10. Dallas Texas 404920
+11. San Bernardino California 351853
+12. Riverside California 320908
+13. Bronx New York 297330
+14. Wayne Michigan 292034
+15. Bexar Texas 278220
+16. Broward Florida 264560
+17. Philadelphia Pennsylvania 252345
+18. Clark Nevada 233547
+19. Tarrant Texas 233178
+20. New York New York 222281
+
+
+The top 20 counties sorted based on Elderly Medicare
+1. Los Angeles California 911590
+2. Cook Illinois 577235
+3. Maricopa Arizona 337774
+4. San Diego California 310855
+5. Miami-Dade Florida 287005
+6. Orange California 281334
+7. Kings New York 256297
+8. Harris Texas 255791
+9. Queens New York 252241
+10. Wayne Michigan 232760
+11. Palm Beach Florida 228250
+12. Broward Florida 217263
+13. Allegheny Pennsylvania 210701
+14. Cuyahoga Ohio 202342
+15. Nassau New York 197122
+16. Riverside California 192964
+17. New York New York 191138
+18. Philadelphia Pennsylvania 189403
+19. Dallas Texas 182026
+20. Middlesex Massachusetts 180103
+
+
+The top 20 counties sorted based on Disabled Medicare
+1. Los Angeles California 118190
+2. Cook Illinois 89487
+3. Wayne Michigan 54933
+4. Maricopa Arizona 52336
+5. Harris Texas 41846
+6. Kings New York 41803
+7. San Diego California 39312
+8. Philadelphia Pennsylvania 38840
+9. Miami-Dade Florida 34348
+10. Suffolk New York 34326
+11. Queens New York 32718
+12. San Bernardino California 31133
+13. Dallas Texas 30711
+14. Cuyahoga Ohio 27834
+15. Orange California 27747
+16. Broward Florida 27629
+17. New York New York 27406
+18. Sacramento California 27079
+19. Riverside California 26996
+20. Bronx New York 26592
+
+
+The top 20 counties sorted based on Primary Care Physician Rate
+1. Charlottesville City Virginia 581.2
+2. Norton City Virginia 571.1
+3. Montour Pennsylvania 532.4
+4. Adams North Dakota 493.2
+5. Olmsted Minnesota 454.2
+6. Orange North Carolina 384.3
+7. Lexington City Virginia 324.7
+8. Falls Church City Virginia 315.4
+9. Johnson Iowa 307.5
+10. Suffolk Massachusetts 293.7
+11. Winchester City Virginia 290.6
+12. New York New York 287.7
+13. Galax City Virginia 284.6
+14. Grafton New Hampshire 279.8
+15. Hooker Nebraska 268.8
+16. Boyd Nebraska 265.4
+17. Fairfax City Virginia 259.5
+18. Washington Tennessee 255.1
+19. Durham North Carolina 247.3
+20. San Francisco California 243.3
+
+
+The top 20 counties sorted based on Dentist Rate
+1. Fairfax City Virginia 377.9
+2. Hooker Nebraska 268.8
+3. Falls Church City Virginia 213.3
+4. Andrew Missouri 213.0
+5. Galax City Virginia 164.8
+6. Johnson Iowa 158.0
+7. Deuel Nebraska 149.7
+8. Slope North Dakota 141.0
+9. Martinsville City Virginia 140.7
+10. Lexington City Virginia 132.8
+11. Hinsdale Colorado 130.7
+12. San Francisco California 126.4
+13. Orange North Carolina 125.0
+14. New York New York 118.6
+15. Nassau New York 113.6
+16. Bedford City Virginia 112.7
+17. Richmond Georgia 111.9
+18. Monongalia West Virginia 111.4
+19. Garfield Nebraska 110.1
+20. Colonial Heights City Virginia 108.2
